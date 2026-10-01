@@ -2,6 +2,13 @@
 
 ### Intelligent Healthcare Monitoring Using IoT, Big Data, and Artificial Intelligence
 
+## Project Architecture
+
+The following diagram illustrates the proposed architecture of the wearable-based remote monitoring system, including data acquisition, transmission, processing, AI analysis, and visualization.
+
+<p align="center">
+  <img src="./architecture.png" alt="AI Wearable Remote Monitoring Architecture" width="850"/>
+</p>
 ## Project Overview
 
 This project presents the design of an intelligent remote patient monitoring system integrating wearable devices, IoT connectivity, Big Data infrastructure, Machine Learning, and AI-powered alert management.
